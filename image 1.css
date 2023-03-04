@@ -1,0 +1,11 @@
+table{
+border-collapse: separate;
+border-spacing: 10px;
+}
+
+
+tr,td{border: solid 2px black;
+border-radius: 5px;
+padding: 10px;
+box-shadow: 3px 1px }
+
